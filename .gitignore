@@ -3,3 +3,7 @@ Trainer-config2/
 accelerator-model/
 bert-model/
 bert-tokenizer/
+.env
+data/
+drug-reviews/
+Tokenizer/
