@@ -7,3 +7,5 @@ bert-tokenizer/
 data/
 drug-reviews/
 Tokenizer/
+NLP-HF-lesson-7/bert-finetuned-ner/
+NLP-HF-lesson-7/bert-finetuned-ner/**/*
